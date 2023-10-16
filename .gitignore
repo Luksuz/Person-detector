@@ -1,0 +1,12 @@
+/trainingData/Ivano/*
+/trainingData/Luka/*
+/trainingData/Nadica/*
+/trainingData/Maja/*
+/venv
+/cartPole.py
+/casion.py
+/face_trained.yml
+/faceRecognition.py
+/features.npy
+/labels.npy
+/.DS_Store
