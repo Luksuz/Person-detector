@@ -33,4 +33,4 @@ To run face detection:
    git clone https://github.com/yourusername/person-detector.git
    cd face-detection
    pip install -r requirements.txt
-   python main.py
+   python face_train.py
